@@ -83,13 +83,13 @@ body {
 }
 
 #content h2 {
-	color: #ec3928;
+	color: orange;
 }
 
 #content h3 {
-	color: #6d1734;
+	color: red;
 }
 
 #content h4 {
-	color: #421233;
+	color: purple;
 }
