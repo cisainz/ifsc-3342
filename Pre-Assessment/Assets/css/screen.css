@@ -93,3 +93,9 @@ body {
 #content h4 {
 	color: purple;
 }
+
+#content img{
+	float: right;
+	border-style: double;
+	border-color:  orange;
+}
