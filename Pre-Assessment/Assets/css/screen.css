@@ -82,14 +82,14 @@ body {
 	color: white;
 }
 
-h2 {
+#content h2 {
 	color: #ec3928;
 }
 
-h3 {
+#content h3 {
 	color: #6d1734;
 }
 
-h4 {
+#content h4 {
 	color: #421233;
 }
