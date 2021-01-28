@@ -74,11 +74,11 @@ body {
 }
 
 #special_link a:hover{
-	 background-color: #ec3928;
+	 background-color: orange;
 }
 
 .alert {
-	background-color: #ec3928;
+	background-color: red;
 	color: white;
 }
 
