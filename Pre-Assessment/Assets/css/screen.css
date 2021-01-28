@@ -2,11 +2,12 @@
 	margin: 0px;
 	padding: 0px;
 }
+/* The "*" sets CSS rules for the overall document.*/
 body {
 	text-align: center;
 	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
-	background-color: #171717;
 	background-image: url("Assets/img/bg-tile.jpg");
+	background-color: #171717;
 	font-size: 16px;
 	line-height: 1.5em;
 }
