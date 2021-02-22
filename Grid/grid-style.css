@@ -31,7 +31,6 @@ html {
 header.primary {
   width: 940px;
   background: #4D92A8;
-  /* 20px */
   margin: 10px;
   padding: 10px;
   float: left;
@@ -46,8 +45,8 @@ header.primary {
   float: left;
 }
 
-aside {
-  /*356px*/
+/*aside {
+  
   width: 37.083%;
   background: rgba(0, 0, 0, 0.3);
   margin-left: 2.083%;
@@ -56,11 +55,11 @@ aside {
 }
 
 footer.primary {
-  /* 920px */
+  
   width: 95.833%;
   background: #AD726D;
   font: white;
-  /* 20px */
+ 
   margin: 2.083%;
   padding: 2.173%;
   float: left;
@@ -102,4 +101,4 @@ footer.primary {
   .container{
   width:1000px;
   }
-}
+} */
