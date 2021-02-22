@@ -45,25 +45,23 @@ header.primary {
 }
 
 aside {
-  width: 320%;
+  width: 320px;
   background: #F1CE5D;
   margin-left: 20px;
   padding: 20px;
   float: left;
 }
 
-/*footer.primary {
+footer.primary {
   
-  width: 95.833%;
-  background: #AD726D;
-  font: white;
- 
-  margin: 2.083%;
-  padding: 2.173%;
+ width:960px;
+  background: #052D3D;
+  margin: 10px auto;
+  padding: 20px;
   float: left;
 }
 
-.col-4 {
+/*.col-4 {
   width: 356px;
   background: green;
   margin-left: 20px;
