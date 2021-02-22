@@ -32,16 +32,16 @@ header.primary {
   width: 940px;
   background: #4D92A8;
   margin: 10px;
-  padding: 10px;
+  padding: 20px;
   float: left;
 }
 
 #content {
   /* 544px */
-  width: 56.666%;
-  background: rgba(0, 0, 0, 0.6);
-  margin-left: 2.083%;
-  padding: 2.173%;
+  width: 460px;
+  background: #E68A8E;
+  margin-left: 10px;
+  padding: 20px;
   float: left;
 }
 
