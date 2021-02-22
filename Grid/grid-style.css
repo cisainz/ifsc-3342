@@ -25,16 +25,14 @@ html {
 .container {
   width:960px;
   background:#F2D5D0;
- 
   margin: 10px auto;
 }
 
 header.primary {
-  /* 920px */
-  width: 95.833%;
+  width: 940px;
   background: #4D92A8;
   /* 20px */
-  margin: 2.083%;
+  margin: 10px;
   padding: 2.173%;
   float: left;
 }
