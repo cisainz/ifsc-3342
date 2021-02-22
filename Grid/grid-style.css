@@ -23,7 +23,7 @@ html {
 
 
 .container {
-
+  background:#F2D5D0;
   border: 1px solid #000;
   margin: 20px auto;
 }
@@ -60,6 +60,7 @@ footer.primary {
   /* 920px */
   width: 95.833%;
   background: #052D3D;
+  font: white;
   /* 20px */
   margin: 2.083%;
   padding: 2.173%;
@@ -102,8 +103,4 @@ footer.primary {
   .container{
   width:1000px;
   }
-}
-
-footer {
-  background-color: #052D3D;
 }
