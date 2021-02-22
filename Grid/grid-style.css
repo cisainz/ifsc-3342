@@ -48,6 +48,7 @@ aside {
   width: 320px;
   background: #F1CE5D;
   margin-left: 20px;
+  margin-right:10px;
   padding: 20px;
   float: left;
 }
@@ -61,29 +62,6 @@ footer.primary {
   float: left;
 }
 
-/*.col-4 {
-  width: 356px;
-  background: green;
-  margin-left: 20px;
-  padding: 20px;
-  float: left;
-}
-
-.col-6 {
-  width: 544px;
-  background: purple;
-  margin-left: 20px;
-  padding: 20px;
-  float: left;
-}
-
-.col-12 {
-  width: 920px;
-  background: rgba(0, 0, 0, 0.4);
-  margin: 20px;
-  padding: 20px;
-  float: left;
-}
 
 
 @media screen and (min-width:900px){
