@@ -31,7 +31,7 @@ html {
 header.primary {
   /* 920px */
   width: 95.833%;
-  background: rgba(0, 0, 0, 0.4);
+  background: #4D92A8;
   /* 20px */
   margin: 2.083%;
   padding: 2.173%;
@@ -59,7 +59,7 @@ aside {
 footer.primary {
   /* 920px */
   width: 95.833%;
-  background: #052D3D;
+  background: #AD726D;
   font: white;
   /* 20px */
   margin: 2.083%;
