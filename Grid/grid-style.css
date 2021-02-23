@@ -23,7 +23,7 @@ html {
 
 
 .container {
-  width:960px;
+  max-width:960px;
   background: #052D3D;
   margin: 10px auto;
 }
@@ -57,10 +57,11 @@ aside {
 
 footer.primary {
   font: white;
- width:960px;
+  /* Orignal width: 940px */
+  width: 97.916%;
   background: #052D3D;
-  margin: 10px auto;
-  padding: 20px;
+  margin: 1.0416%;
+  padding: 2.021%;
   float: left;
 }
 
