@@ -29,26 +29,28 @@ html {
 }
 
 header.primary {
-  width: 940px;
+  /* Orignal width: 940px */
+  width: 97.916%;
   background: #4D92A8;
-  margin: 10px;
-  padding: 20px;
+  margin: 1.0416%;
+  padding: 2.021%;
   float: left;
 }
 
 #content {
-  width: 620px;
+  /* Orignal width: 620px */
+  width: 64.583%;
   background: #E68A8E;
-  margin-left: 10px;
-  padding: 20px;
+  margin-left: 1.0416%;
+  padding: 2.021%;
   float: left;
 }
 
 aside {
-  width: 320px;
+  /* Orignal width: 320px */
+  width: 33.333%;
   background: #F1CE5D;
-  margin-left: 20px;
-  
+  margin-left: 10px;
   padding: 20px;
   float: left;
 }
