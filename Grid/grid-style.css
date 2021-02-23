@@ -51,12 +51,12 @@ aside {
   width: 31.52%;
   background: #F1CE5D;
   margin-left: 1.0416%;
-  padding: 1.063%;
+  padding: 2.083%;
   float: left;
 }
 
 footer.primary {
-  
+  font: white;
  width:960px;
   background: #052D3D;
   margin: 10px auto;
