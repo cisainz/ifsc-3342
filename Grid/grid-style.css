@@ -35,6 +35,7 @@ header.primary {
   margin: 1.0416%;
   padding: 2.021%;
   float: left;
+  font-family: sans-serif;
 }
 
 #content {
@@ -44,6 +45,7 @@ header.primary {
   margin-left: 1.0416%;
   padding: 2.021%;
   float: left;
+  font-family: sans-serif;
 }
 
 aside {
@@ -53,9 +55,11 @@ aside {
   margin-left: 1.0416%;
   padding: 2.083%;
   float: left;
+  font-family: sans-serif;
 }
 
 footer.primary {
+  font-family: sans-serif;
   font: white;
   /* Orignal width: 940px */
   width: 97.916%;
