@@ -16,14 +16,14 @@ body{font-family: 'Droid Serif';background:#374E5A; overflow: auto;}
 .col {
   width:46%;
   margin:1%;
-  background:#5a7b6c;
+  background:#50A5FA;
   border-radius:6px;
   padding: 2em;
   float:left;
 }
 
 .col:nth-child(odd){
-  background:#8fb87f;
+  background:#FABB50;
 }
 
 .col p{
