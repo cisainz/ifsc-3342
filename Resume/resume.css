@@ -41,7 +41,7 @@ img{
 /* -- Global Styles --*/
 
 body{
-  background:#027373;
+  background:#039999;
   color:#013A40;
   line-height:1.6;
 } 
@@ -71,13 +71,13 @@ nav a:link, nav a:visited{
   color:#F23D3D;
   text-transform:uppercase;
   font-size:.75em;
-  background:rgba(0,0,0,.65);
+  background:#F23D3D;
   transition: background-color .5s ease;
   color:#fff;
 }
 
 nav a:hover{
-   background:rgba(0,0,0,.95);
+   background:#F26A4B;
 }
 
 main{
