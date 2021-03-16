@@ -41,13 +41,13 @@ img{
 /* -- Global Styles --*/
 
 body{
-  background:#039999;
-  color:#013A40;
+  background:#00003B;
+  color: white;
   line-height:1.6;
 } 
 
 a:link, a:visited{
-  color:#222;
+  color:#2E005C;
 }
 
 .container{
