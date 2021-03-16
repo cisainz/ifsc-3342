@@ -142,6 +142,7 @@ dd{
 
 .related-links a{
   border:1px solid #000;
+  border-radius: 8px;
   padding:8px 16px;
   text-align:center;
   text-decoration:none;
@@ -257,6 +258,7 @@ main.container {
 .related-links{
   grid-area:related;
   border-bottom:1px solid #999;
+  border-radius: 8px;
   padding-bottom:50px
 }
   
