@@ -218,6 +218,9 @@ main.container{
   grid-area: education;
 }
 
+h2 {
+  color:#10A3A3;
+}
 
 
 
@@ -264,7 +267,9 @@ main.container {
   
 }
 
-
+h2 {
+  color:#10A3A3;
+}
 
 
 
