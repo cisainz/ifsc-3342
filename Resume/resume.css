@@ -91,7 +91,7 @@ main h1 {
   flex-direction: row;
   justify-content: center;
   text-align: center;
-  font-weight:400;
+  font-weight:500;
   font-variant:small-caps;
 }
 main h1:before, main h1:after {
