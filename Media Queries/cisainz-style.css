@@ -20,7 +20,7 @@ body {
   margin:20px auto;
 }
 
-.col:nth-child(odd){
+.col a:nth-child(odd){
   background:#3C5773;
 }
 
