@@ -76,7 +76,7 @@ nav a:link, nav a:visited{
   text-transform:uppercase;
   font-size:.75em;
   background:#10A3A3;
-  transition: background-color .5s ease;
+  transition: background-color .7s ease;
   color:#fff;
 }
 
@@ -154,7 +154,7 @@ dd{
   text-transform:uppercase;
   font-size:.75em;
   background:#782478;
-  transition: background-color 0.5s ease;
+  transition: background-color 0.7s ease;
   color:#fff;
 }
 
