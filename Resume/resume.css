@@ -23,7 +23,7 @@ img{
 
 /* -- Design Time Styles --*/
 .container {
-  max-width:367px;
+  max-width:375px;
   margin:0 auto;
 }
 
@@ -62,7 +62,7 @@ nav.primary{
   grid-template-columns: 1fr 1fr 1fr 1fr;
   /* --- Using Repeat Keyword ---*/
   grid-template-columns: repeat(4,1fr);
-  padding:20px 20px 0px 20px;
+  padding:10px 10px 0px 10px;
 }
 
 nav a:link, nav a:visited{
@@ -83,7 +83,7 @@ nav a:hover{
 }
 
 main{
-  padding: 1px 20px;
+  padding: 1px 10px;
 }
 
 main h1 {
