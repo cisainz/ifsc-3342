@@ -333,11 +333,11 @@ h2 {
 .container{
   max-width:420px;
   margin: 0 auto;
-}
+} */
 
 /*Tablet*/
 
-/* -@media screen and (min-width:768px) {
+ -@media screen and (min-width:768px) {
   
   .col{
     float:left;
@@ -352,7 +352,7 @@ h2 {
 
 /* Desktop */
 
-/* -@media screen and (min-width:992px){
+@media screen and (min-width:992px){
   .col{
     width:23%;
   }
@@ -364,4 +364,4 @@ h2 {
   
   
   
-} */
+} 
