@@ -7,6 +7,11 @@ html {
   box-sizing: inherit;
 }
 
+h1{
+  color:#F03938;
+  text-align: center;
+}
+
 /*Base CSS*/
 body {
   font-family: "Lato";
