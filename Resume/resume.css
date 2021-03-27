@@ -95,7 +95,7 @@ main h1 {
   font-variant:small-caps;
 }
 main h1:before, main h1:after {
-  background-color: #222;
+  background-color: #2E005C;
   content: '\a0';
   flex-grow: 1;
   height: 1px;
