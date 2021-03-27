@@ -229,6 +229,11 @@ h2 {
 }
 
 
+@media only screen and (max-width: 460px) {
+  .related-links li a svg{display:none;}
+  
+}
+
 
 /*--Tablet Breakpoint--*/
 
@@ -290,10 +295,6 @@ h2 {
 
 /*--Edge Case Tweaks--*/
 
-@media only screen and (max-width: 360px) {
-  .related-links li a svg{display:none;}
-  
-}
 
 
 
