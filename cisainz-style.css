@@ -13,6 +13,11 @@ body {
   background: #F4F4E9;
 }
 
+h1{
+  text-align: center;
+  color:#F03938;
+}
+
 .col a{
   background:#3C5773;
   border-radius:3px;
@@ -21,7 +26,7 @@ body {
 }
 
 .col a:nth-child(odd){
-  background:#8fb87f;
+  background:#3C5773;
 }
 
 .col h4{
