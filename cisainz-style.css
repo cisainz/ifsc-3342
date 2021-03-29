@@ -9,7 +9,7 @@ html {
 
 /*Base CSS*/
 body {
-  font-family: "Lato";
+  font-family: "Lato", sans-serif;
   background: #F4F4E9;
 }
 
