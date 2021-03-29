@@ -10,17 +10,17 @@ html {
 /*Base CSS*/
 body {
   font-family: "Lato";
-  background: #374e5a;
+  background: #F4F4E9;
 }
 
 .col a{
-  background:#5a7b6c;
+  background:#3C5773;
   border-radius:3px;
   padding:20px;
   margin:20px auto;
 }
 
-.col:nth-child(odd){
+.col a:nth-child(odd){
   background:#8fb87f;
 }
 
