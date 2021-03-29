@@ -18,6 +18,11 @@ h1{
   color:#F03938;
 }
 
+h2{
+  text-align:center;
+  color:#F68F2D;
+}
+
 .col a{
   background:#3C5773;
   border-radius:3px;
@@ -61,10 +66,12 @@ h1{
   }
   
   .container{
-    max-width:1000px;
+    max-width:900px;
   }
   
-  
+  #reflection{
+    
+  }
   
   
 }
