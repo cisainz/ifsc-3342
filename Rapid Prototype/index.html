@@ -28,16 +28,7 @@
 
 <body>
 
-  <header>
-    <img src=""/>
-    <!-- Main navigation -->
-    <nav class="primary">
-      <a href="#Home">Home</a>
-      <a href="#Portfolio">Portfolio</a>
-      <a href="#About">About</a>
-      <a href="#Contact">Contact</a>
-    </nav>
-  </header>
+
   
   <style>
     h1 {
@@ -49,8 +40,31 @@
     .recent-work {
       background-color: #7A7A7A;
     }
+    
+    .nav-link active{
+      background-color:#442A59;
+    }
+    
+    .nav-pills {
+      background-color:#623D81;
+    }
+    
   </style>
   
+<ul class="nav nav-pills nav-fill">
+  <li class="nav-item">
+    <a class="nav-link active" href="#">Home</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#">Portfolio</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#">About</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" href="#">Contact</a>
+  </li>
+</ul>
   
   <div class="container-fluid"></div>
   <h1>Welcome to my Website!!</h1>
@@ -72,6 +86,8 @@
   </div>
   
   </div>
+  
+  <a href="#" class="btn btn-warning">Collaborate</a>
   
   <script src="js/vendor/modernizr-3.11.6.min.js"></script>
 
