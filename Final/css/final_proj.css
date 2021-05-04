@@ -1,0 +1,33 @@
+h1 {
+      text-align: center;
+    }
+    h2 {
+      text-align: center;
+      color: white;
+    }
+    .recent-work {
+      background-color: #7A7A7A;
+      padding: 10px;
+    }
+    
+          
+        .navbar-custom {
+            background-color: #623D81;
+        }
+        
+    .masthead {
+  height: 600px;
+  min-height: 500px;
+  background-image: url('/ifsc-3342/Final/img/placeholder_header2-01.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+      
+ .footer {
+   background:#3F3F3F;
+   margin: 10px;
+   color: white;
+   padding: 10px;
+   width: 100%;
+ }
