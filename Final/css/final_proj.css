@@ -25,7 +25,9 @@ h1 {
 }
 
 .bg-secondary {
-    padding-bottom: 20px;
+    padding-bottom: 40px;
+    padding-top:20px;
+    padding-left: 10px;
 }
       
  .footer {
