@@ -32,6 +32,10 @@ h1 {
     padding-left: 10px;
     color:white;
 }
+
+.row{
+    padding-bottom:20px;
+}
       
  .footer {
    background:#3F3F3F;
