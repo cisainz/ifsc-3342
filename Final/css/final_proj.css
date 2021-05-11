@@ -24,7 +24,11 @@ h1 {
   background-repeat: no-repeat;
 }
 
-.profile_pic
+@media (max-width:629px) {
+  img#profile_pic {
+    display: none;
+  }
+}
 
 .bg-secondary {
     padding-bottom: 40px;
